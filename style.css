@@ -1,0 +1,172 @@
+/**
+ * Theme Name: testwebsite
+ * Template:   twentytwentyone
+ */
+.about-container a { color: #fff; }
+.elementor-13 .elementor-element.elementor-element-d57906b:not(.elementor-motion-effects-element-type-background), 
+.elementor-13 .elementor-element.elementor-element-d57906b > .elementor-motion-effects-container > 
+.elementor-motion-effects-layer { background-image: url("http://test-website.local/wp-content/uploads/2024/08/Rectangle-1-3.png");
+                                  background-position: center center; background-repeat: no-repeat; background-size: cover; padding: 50px; }
+.hfe-nav-menu li a span i { display: none; }
+.main input, .main textarea { border: 1px solid; margin-bottom: 20px; border-radius: 10px; width: 100%; font-size: 18px; 
+                              padding: 12px 10px; }
+.name-email p { display: flex; gap: 20px; }
+.name-email { width: 100%; }
+.name-email p span { width: 100%; }
+.form-container .e-con-full { padding: 0; }
+.form-container { padding: 80px 0; }
+.form-container .e-con-full .elementor-element-0040ef1 ul li a svg {width: 20px;height: 20px;}
+.form-container .e-con-full .elementor-element-0040ef1 ul li { line-height: normal; }
+.form-container .e-con-full .elementor-element-0040ef1 ul li a { display: flex; gap: 15px; align-items: center; }
+.form-container .e-con-full .elementor-element-0040ef1 ul { display: flex; flex-direction: column; gap: 10px;                                                           list-style: none; margin-bottom: 15px; }
+.form-container .e-con-full .elementor-element-0040ef1 ul li a span { display: flex; }
+textarea, input:focus-visible { outline: none; }
+textarea, input:focus { outline: none !important; }
+.elementor-15 .all-cont { display: flex; }
+.elementor-15 .ticat {display: flex;margin: 20px 0 0 0;background: #4e6c815c;color: #000;justify-content: center;}
+.elementor-15 .tags ul { display: flex; gap: 50px;}
+.elementor-15 .datit {display: flex;align-items: center;gap: 10px;}
+.elementor-15 .all-cont {width: 100%;justify-content: space-between;align-items: center;margin: 50px 0 0 0;}
+.elementor-15 .images { width: 48%;}
+.elementor-15 .cpt { width: 48%;}
+.elementor-15 .ticat ul {list-style: none !important;padding: 0;padding-left: 15px;}
+p { font-size: 18px; line-height: normal; }
+.datit h3 {background: #2b4558;padding: 10px 16px;border-radius: 100%;font-size: 16px;line-height: normal;text-align: center;color: #fff;}
+.datit h2 { font-size: 36px; line-height: 1; }
+.cpt p { padding: 20px 0;}
+.elementor-36 .elementor-element.elementor-element-afe5990:not(.elementor-motion-effects-element-type-background), .elementor-36 .elementor-element.elementor-element-afe5990 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("http://test-website.local/wp-content/uploads/2024/08/Rectangle-1-2.png"); background-position: center center;
+    background-repeat: no-repeat; background-size: cover; padding: 120px; }
+.elementor-15 .elementor-element.elementor-element-9dd10c6:not(.elementor-motion-effects-element-type-background), .elementor-15 .elementor-element.elementor-element-9dd10c6 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("http://test-website.local/wp-content/uploads/2024/08/Rectangle-1-4.png");
+    background-position: center center; background-repeat: no-repeat; background-size: cover; padding: 50px; }
+.recent-posts-widget { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 20px; }
+.recent-post-item { width: 32%; box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; padding-bottom: 20px; border-end-end-radius: 10px; border-end-start-radius: 10px; transition: all 0.5s; }
+.recent-post-title, .recent-post-categories, .recent-post-excerpt { padding: 0 10px; font-size: 18px; line-height: normal; transition: 0.5s; }
+.recent-post-item:hover { background: #2B4558; color: #fff; }
+.recent-post-item:hover a { color:yellow; }
+h2 {font-size: 32px; letter-spacing: 1.5px; line-height: normal; }
+.elementor-icon-box-content h3 span { font-size: 20px; font-weight: 400; }
+.elementor-element-13ba6d8 img { height: 100% !important; width: 100%; }
+.elementor-element.elementor-element-13ba6d8.home-container-2.e-flex.e-con-boxed.e-con.e-parent.e-lazyloaded .elementor-element.elementor-element-3b345eb.e-grid.e-con-full.e-con.e-child {
+    display: flex; align-items: center; }
+.banner-h1 h1 { font-size: 38px; text-transform: capitalize; }
+.header-row { display: flex; justify-content: space-between !important; align-items: center; width: 100%; }
+.elementor-button { position: relative; overflow: hidden; z-index: 1; border: 1px solid; }
+.elementor-button:after { position: absolute; content: ""; background: #fff; right: 0px; height: 100%; width: 0; top: 0; z-index: -1; transition: all 0.5s; }
+.elementor-button:hover:after { width: 100%; transform: skewx(67deg); left: 0; }
+.elementor-button:hover { color: #2b4558; }
+.elementor-button:hover svg path { fill: #2b4558; }
+.elementor-14 .elementor-element.elementor-element-6c39db4:not(.elementor-motion-effects-element-type-background), .elementor-14 .elementor-element.elementor-element-6c39db4 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("http://test-website.local/wp-content/uploads/2024/08/Rectangle-1-4.png"); background-position: center center;
+    background-repeat: no-repeat; background-size: cover; padding: 50px; }
+.recent-post-title a { font-size: larger; color: blue font-family: 'Roboto'; }
+.recent-post-categories a { color: darkorange; font-family: cursive; }
+.single-product div.product .images .woocommerce-main-image {
+    width: 75%;
+    float: left;
+}
+
+/* Make Gallery 25% width and place it beside the image */
+
+.single-product div.product .images .thumbnails {
+    width: 25%;
+    float: left;
+}
+
+/* Style each Thumbnail with width and margins */
+
+.single-product div.product .images .thumbnails a.zoom {
+    width: 90%;
+    float: none;
+    margin: 0 0 10% 10%;
+}
+
+.main-wapper-silder  .all-product {
+    display: flex;
+    gap: 50px;
+}
+
+.container {
+    padding: 38px;
+    width: 100%;
+    max-width: 1440px;
+    box-sizing: border-box;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.main-wapper-silder .slick-center> p {
+    color: #2b4558 !important;
+    background: #fff !important;
+}
+.main-wapper-silder .slick-track {
+    display: flex;
+    column-gap: 85px;
+}  
+
+
+.main-wapper-silder .slick-list.draggable {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    overflow: hidden;
+    height: 430px;
+}
+
+.main-wapper-silder button {
+    display: none !important;
+}
+
+.slick-list.draggable:focus-visible {
+    outline: none;
+    border: transparent;
+}
+
+.main-wapper-silder .product {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transition: all 0.5s;
+}
+
+.main-wapper-silder .product p {
+    background: #2b4558;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    padding: 10px 0;
+    transition: all 0.5s;
+}
+
+.main-wapper-silder .product:hover p, .slick-center p {
+    color: #2b4558 !important;
+    background: #fff !important;
+}
+
+.main-wapper-silder .slick-center {box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;transform: scale(1.1);}
+.row {
+    display: flex;
+    width: 100%;
+}
+
+.phasd {
+    width: 50%;
+}
+
+.map {
+    width: 50%;
+}
+
+.main {
+    background: yellow;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
